@@ -2,7 +2,7 @@
 
 A light [Omarchy](https://omarchy.org) theme designed to keep text sharp for people with astigmatism.
 
-![Lake](backgrounds/1-lake.png)
+![Clarity on an Omarchy desktop](preview.png)
 
 ## Install
 
