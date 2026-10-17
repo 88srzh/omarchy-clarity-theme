@@ -1,5 +1,5 @@
 import sys
-# usage: python3 tools/brand.py <unused> backgrounds/2-hills.png out.png  (needs Pillow and the Lato font)
+# usage: python3 tools/brand.py <dir-with-Pillow-or-.> backgrounds/2-hills.png out.png  (needs Pillow and the Lato font)
 sys.path.insert(0, sys.argv[1])
 from PIL import Image, ImageDraw, ImageFont, ImageFilter
 base = Image.open(sys.argv[2]).convert('RGB'); out = sys.argv[3]
