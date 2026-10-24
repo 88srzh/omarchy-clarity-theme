@@ -46,12 +46,7 @@ Tip: a slightly larger and heavier font (**Style > Font**) helps even more — t
 
 ## Wallpapers
 
-The lake and hills wallpapers are original, 3840×2160, drawn procedurally in pure Python (no dependencies). Regenerate or tweak them with:
-
-```
-python3 tools/lake.py 3840 2160 lake.png
-python3 tools/hills.py 3840 2160 hills.png
-```
+The lake and hills wallpapers are original, 3840×2160, drawn procedurally.
 
 `3-omarchy.png` is the Omarchy wordmark from the [Omarchy](https://github.com/omacom/omarchy) themes (MIT), recoloured to the Clarity accent `#1A5A70` on the theme background.
 
